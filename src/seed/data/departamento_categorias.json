@@ -1,0 +1,415 @@
+[
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "DEPARTAMENTO DE ASESORÍA JURÍDICA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD DE AUDITORIA INTERNA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD DE DESARROLLO INSTITUCIONAL",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD DE EPIDEMIOLOGIA HOSPITALARIA",
+    "categorias": [
+      24,
+      248
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD DE PLANIFICACIÓN INSTITUCIONAL",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD FINANCIERA INSTITUCIONAL_",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIRECCION Y SUBDIRECCION",
+    "departamento": "UNIDAD ORGANIZATIVA DE LA CALIDAD",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "ALMACEN",
+    "categorias": [
+      16,
+      18,
+      19,
+      24,
+      232,
+      244,
+      245
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "AREA DE MORGUE",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE ALIMENTACION Y DIETAS",
+    "categorias": [
+      24,
+      201,
+      243,
+      247
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE AUXILIARES DE SERVICIOS",
+    "categorias": [
+      24,
+      29
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE LAVANDERIA Y ROPERIA",
+    "categorias": [
+      24,
+      43,
+      230
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE MANTENIMIENTO",
+    "categorias": [
+      9,
+      24,
+      231,
+      233,
+      235,
+      237,
+      240
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE RECURSOS HUMANOS",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE TRANSPORTE",
+    "categorias": [
+      3,
+      24,
+      234
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "DEPARTAMENTO DE VIGILANCIA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "ESTADISTICA Y DOCUMENTOS MEDICOS",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "OFICINA DE SANEAMIENTO AMBIENTAL",
+    "categorias": [
+      24,
+      242
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "UNIDAD DE ACTIVO FIJO",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION ADMINISTRATIVA",
+    "departamento": "UNIDAD DE COMPRAS PUBLICAS",
+    "categorias": [
+      24,
+      241
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "ANATOMIA PATOLOGICA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "BANCO DE LECHE HUMANA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "BANCO DE SANGRE",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "DEPARTAMENTO DE TRABAJO SOCIAL",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "FARMACIA",
+    "categorias": [
+      24,
+      30
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "FISIOTERAPIA",
+    "categorias": [
+      24,
+      238
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "IMAGENOLOGIA",
+    "categorias": [
+      17,
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "LABORATORIO CLINICO",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION DE APOYO Y DIAGNOSTICO",
+    "departamento": "ÁREA DE APOYO ELECTRODIAGNOSTICO Y ENDOSCOPICO",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "CENTRO QUIRÚRGICO",
+    "categorias": [
+      18,
+      24,
+      245
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "CLÍNICA DE ATENCION INTEGRAL",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "CLÍNICA DEL DOLOR Y CUIDADOS PALEATIVOS",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "DEPARTAMENTO DE CIRUGÍA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "DEPARTAMENTO DE GINECOLOGIA Y OBSTETRICIA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "DEPARTAMENTO DE MEDICINA INTERNA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "DEPARTAMENTO DE NEONATOLOGIA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "DEPARTAMENTO DE PEDIATRIA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "UNIDAD DE CONSULTA EXTERNA MEDICO QUIRÚRGICA",
+    "categorias": [
+      24
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "UNIDAD DE EMERGENCIAS MEDICO QUIRURGICA",
+    "categorias": [
+      3,
+      9,
+      15,
+      16,
+      17,
+      18,
+      19,
+      24,
+      29,
+      30,
+      43,
+      201,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "UNIDAD DE TERAPIA DIALITICA",
+    "categorias": [
+      3,
+      9,
+      15,
+      16,
+      17,
+      18,
+      19,
+      24,
+      29,
+      30,
+      43,
+      201,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ]
+  },
+  {
+    "division": "DIVISION MEDICO QUIRURGICO",
+    "departamento": "UNIDAD DE TERAPIA INTENSIVA",
+    "categorias": [
+      3,
+      9,
+      15,
+      16,
+      17,
+      18,
+      19,
+      24,
+      29,
+      30,
+      43,
+      201,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ]
+  },
+  {
+    "division": "DIVISIÓN DE ENFERMERÍA",
+    "departamento": "CENTRAL DE EQUIPOS Y ESTERILIZACIÓN",
+    "categorias": [
+      24,
+      239
+    ]
+  }
+]

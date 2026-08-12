@@ -1,0 +1,157 @@
+[
+  {
+    "codigo": "3",
+    "nombre": "Combustibles y lubricantes",
+    "areaEncargada": "TRANSPORTE"
+  },
+  {
+    "codigo": "9",
+    "nombre": "Gases medicinales",
+    "areaEncargada": "UCYM"
+  },
+  {
+    "codigo": "15",
+    "nombre": "Material de odontologia",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "16",
+    "nombre": "Material de osteosintesis y protesis",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "17",
+    "nombre": "Material imagenologia",
+    "areaEncargada": "RAYO X"
+  },
+  {
+    "codigo": "18",
+    "nombre": "Material medico quirurgico",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "19",
+    "nombre": "Material y reactivos de laboratorio",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "24",
+    "nombre": "Materiales de oficina, productos de papel e impresos",
+    "areaEncargada": "TODAS LAS UNIDADES"
+  },
+  {
+    "codigo": "29",
+    "nombre": "Materiales y elementos de aseo",
+    "areaEncargada": "SERVICIOS GENERALES"
+  },
+  {
+    "codigo": "30",
+    "nombre": "Medicamentos",
+    "areaEncargada": "FARMACIA"
+  },
+  {
+    "codigo": "43",
+    "nombre": "Productos textiles, vestuario y calzado",
+    "areaEncargada": "ALMACEN O LAVANDERIA"
+  },
+  {
+    "codigo": "201",
+    "nombre": "Productos alimenticios para personas",
+    "areaEncargada": "ALIMENTACION Y DIETAS"
+  },
+  {
+    "codigo": "230",
+    "nombre": "Accesorios de costura",
+    "areaEncargada": "ALMACEN O LAVANDERIA"
+  },
+  {
+    "codigo": "231",
+    "nombre": "Accesorios para generacion y distribucion de energia",
+    "areaEncargada": "MANTENIMIENTO"
+  },
+  {
+    "codigo": "232",
+    "nombre": "Accesorios y suministros para manejo, acondicionamiento y almacenamiento de materiales",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "233",
+    "nombre": "Componentes electronicos, iluminacion y acondicionamiento",
+    "areaEncargada": "MANTENIMIENTO"
+  },
+  {
+    "codigo": "234",
+    "nombre": "Componentes y sistemas para vehiculo",
+    "areaEncargada": "TRANSPORTE"
+  },
+  {
+    "codigo": "235",
+    "nombre": "Componentes y suministros de fabricacion, estructuras y construcciones",
+    "areaEncargada": "MANTENIMIENTO"
+  },
+  {
+    "codigo": "236",
+    "nombre": "Instrumentos de medida y observacion",
+    "areaEncargada": ""
+  },
+  {
+    "codigo": "237",
+    "nombre": "Productos de proteccion y resguardo medico, docificacion y gas hospitalario.",
+    "areaEncargada": "MANTEMIENTO Y UCYM"
+  },
+  {
+    "codigo": "238",
+    "nombre": "Productos de rehabilitacion y terapia ocupacional y fisica",
+    "areaEncargada": "FISIOTERAPIA"
+  },
+  {
+    "codigo": "239",
+    "nombre": "Productos para la esterilizacion de instrumental medico",
+    "areaEncargada": "CENTRAL"
+  },
+  {
+    "codigo": "240",
+    "nombre": "Productos quimicos, bioquimicos, minerales y gases industriales",
+    "areaEncargada": "MANTENIMIENTO"
+  },
+  {
+    "codigo": "241",
+    "nombre": "Publicaciones y formularios impresos y electronicos",
+    "areaEncargada": "UCP E IMPRESIONES"
+  },
+  {
+    "codigo": "242",
+    "nombre": "Suministro para tratamiento de agua",
+    "areaEncargada": "INSPECTOR DE SANAMIENTO"
+  },
+  {
+    "codigo": "243",
+    "nombre": "Suministros de nutricion clinica",
+    "areaEncargada": "ALIMENTACION Y DIETAS"
+  },
+  {
+    "codigo": "244",
+    "nombre": "Suministros para manejo y almacenamiento de materiales",
+    "areaEncargada": "ALMACEN"
+  },
+  {
+    "codigo": "245",
+    "nombre": "Suministros y productos de tratamiento y cuidados medicos",
+    "areaEncargada": "ALMACEN TODO LAS AREAS"
+  },
+  {
+    "codigo": "246",
+    "nombre": "Telecomunicaciones y radiodifusion de tecnologia de la informacion",
+    "areaEncargada": ""
+  },
+  {
+    "codigo": "247",
+    "nombre": "Utensilios y equipos menores de cocina",
+    "areaEncargada": "ALMACEN Y LAS AREAS"
+  },
+  {
+    "codigo": "248",
+    "nombre": "Vacunas",
+    "areaEncargada": "EPIDEMEOLOGIA ALMACEN"
+  }
+]

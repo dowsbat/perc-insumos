@@ -1,0 +1,457 @@
+[
+  {
+    "codigo": "DIR-01",
+    "nombre": "Departamento de Asesoría Jurídica",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "DIR-02",
+    "nombre": "Unidad de Auditoria Interna",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "DIR-03",
+    "nombre": "Unidad de Desarrollo Institucional",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "DIR-04",
+    "nombre": "Unidad de Epidemiologia Hospitalaria",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24",
+      "248"
+    ]
+  },
+  {
+    "codigo": "DIR-05",
+    "nombre": "Unidad de Planificación Institucional",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "DIR-06",
+    "nombre": "Unidad Financiera Institucional",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "DIR-07",
+    "nombre": "Unidad Organizativa de la Calidad",
+    "divisionCodigo": "DIR",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-01",
+    "nombre": "Almacen",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "16",
+      "18",
+      "19",
+      "24",
+      "232",
+      "244",
+      "245"
+    ]
+  },
+  {
+    "codigo": "ADM-02",
+    "nombre": "Area de Morgue",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-03",
+    "nombre": "Departamento de Alimentacion y Dietas",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24",
+      "201",
+      "243",
+      "247"
+    ]
+  },
+  {
+    "codigo": "ADM-04",
+    "nombre": "Departamento de Auxiliares de Servicios",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24",
+      "29"
+    ]
+  },
+  {
+    "codigo": "ADM-05",
+    "nombre": "Departamento de Lavanderia y Roperia",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24",
+      "43",
+      "230"
+    ]
+  },
+  {
+    "codigo": "ADM-06",
+    "nombre": "Departamento de Mantenimiento",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "9",
+      "24",
+      "231",
+      "233",
+      "235",
+      "237",
+      "240"
+    ]
+  },
+  {
+    "codigo": "ADM-07",
+    "nombre": "Departamento de Recursos Humanos",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-08",
+    "nombre": "Departamento de Transporte",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "3",
+      "24",
+      "234"
+    ]
+  },
+  {
+    "codigo": "ADM-09",
+    "nombre": "Departamento de Vigilancia",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-10",
+    "nombre": "Estadistica y Documentos Medicos",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-11",
+    "nombre": "Oficina de Saneamiento Ambiental",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24",
+      "242"
+    ]
+  },
+  {
+    "codigo": "ADM-12",
+    "nombre": "Unidad de Activo Fijo",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ADM-13",
+    "nombre": "Unidad de Compras Publicas",
+    "divisionCodigo": "ADM",
+    "categorias": [
+      "24",
+      "241"
+    ]
+  },
+  {
+    "codigo": "APD-01",
+    "nombre": "Anatomia Patologica",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-02",
+    "nombre": "Banco de Leche Humana",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-03",
+    "nombre": "Banco de Sangre",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-04",
+    "nombre": "Departamento de Trabajo Social",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-05",
+    "nombre": "Farmacia",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24",
+      "30"
+    ]
+  },
+  {
+    "codigo": "APD-06",
+    "nombre": "Fisioterapia",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24",
+      "238"
+    ]
+  },
+  {
+    "codigo": "APD-07",
+    "nombre": "Imagenologia",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "17",
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-08",
+    "nombre": "Laboratorio Clinico",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "APD-09",
+    "nombre": "Área de Apoyo Electrodiagnostico y Endoscopico",
+    "divisionCodigo": "APD",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "ENF-01",
+    "nombre": "Central de Equipos y Esterilización",
+    "divisionCodigo": "ENF",
+    "categorias": [
+      "24",
+      "239"
+    ]
+  },
+  {
+    "codigo": "MQX-01",
+    "nombre": "Centro Quirúrgico",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "18",
+      "24",
+      "245"
+    ]
+  },
+  {
+    "codigo": "MQX-02",
+    "nombre": "Clínica de Atencion Integral",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-03",
+    "nombre": "Clínica del Dolor y Cuidados Paleativos",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-04",
+    "nombre": "Departamento de Cirugía",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-05",
+    "nombre": "Departamento de Ginecologia y Obstetricia",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-06",
+    "nombre": "Departamento de Medicina Interna",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-07",
+    "nombre": "Departamento de Neonatologia",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-08",
+    "nombre": "Departamento de Pediatria",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-09",
+    "nombre": "Unidad de Consulta Externa Medico Quirúrgica",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "24"
+    ]
+  },
+  {
+    "codigo": "MQX-10",
+    "nombre": "Unidad de Emergencias Medico Quirurgica",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "3",
+      "9",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "24",
+      "29",
+      "30",
+      "43",
+      "201",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248"
+    ]
+  },
+  {
+    "codigo": "MQX-11",
+    "nombre": "Unidad de Terapia Dialitica",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "3",
+      "9",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "24",
+      "29",
+      "30",
+      "43",
+      "201",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248"
+    ]
+  },
+  {
+    "codigo": "MQX-12",
+    "nombre": "Unidad de Terapia Intensiva",
+    "divisionCodigo": "MQX",
+    "categorias": [
+      "3",
+      "9",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "24",
+      "29",
+      "30",
+      "43",
+      "201",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248"
+    ]
+  }
+]

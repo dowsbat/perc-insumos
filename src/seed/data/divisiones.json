@@ -1,0 +1,7 @@
+[
+  { "codigo": "DIR", "nombre": "Dirección y Subdirección" },
+  { "codigo": "ENF", "nombre": "División de Enfermería" },
+  { "codigo": "ADM", "nombre": "División Administrativa" },
+  { "codigo": "APD", "nombre": "División de Apoyo y Diagnóstico" },
+  { "codigo": "MQX", "nombre": "División Médico Quirúrgico" }
+]

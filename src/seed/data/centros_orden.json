@@ -1,0 +1,270 @@
+[
+  {
+    "codigo": "66",
+    "nombre": "Hospitalizacion medicina interna"
+  },
+  {
+    "codigo": "95",
+    "nombre": "Hospitalizacion cirugia general"
+  },
+  {
+    "codigo": "97",
+    "nombre": "Hospitalizacion ortopedia"
+  },
+  {
+    "codigo": "100",
+    "nombre": "Hospitalizacion otorrinolaringologia"
+  },
+  {
+    "codigo": "788",
+    "nombre": "Hospitalizacion cirugia especializada"
+  },
+  {
+    "codigo": "113",
+    "nombre": "Hospitalizacion obstetricia"
+  },
+  {
+    "codigo": "114",
+    "nombre": "Hospitalizacion ginecologia"
+  },
+  {
+    "codigo": "116",
+    "nombre": "Hospitalizacion pediatria"
+  },
+  {
+    "codigo": "117",
+    "nombre": "Hospitalizacion neonatologia"
+  },
+  {
+    "codigo": "131",
+    "nombre": "Hospitalizacion cirugia pediatrica"
+  },
+  {
+    "codigo": "159",
+    "nombre": "Hospitalizacion de dia"
+  },
+  {
+    "codigo": "745",
+    "nombre": "Hospitalizacion servicios por convenios"
+  },
+  {
+    "codigo": "748",
+    "nombre": "Hospitalizacion de corta estancia"
+  },
+  {
+    "codigo": "166",
+    "nombre": "Unidad de cuidados intensivos"
+  },
+  {
+    "codigo": "169",
+    "nombre": "Unidad de cuidados intensivos neonatologia"
+  },
+  {
+    "codigo": "170",
+    "nombre": "Unidad de cuidados intensivos pediatria"
+  },
+  {
+    "codigo": "201",
+    "nombre": "Emergencias"
+  },
+  {
+    "codigo": "749",
+    "nombre": "Maxima emergencia"
+  },
+  {
+    "codigo": "230",
+    "nombre": "Consulta nutricion"
+  },
+  {
+    "codigo": "235",
+    "nombre": "Consulta de psicologia"
+  },
+  {
+    "codigo": "740",
+    "nombre": "Consulta de servicios por convenios"
+  },
+  {
+    "codigo": "273",
+    "nombre": "Consulta medicina interna"
+  },
+  {
+    "codigo": "285",
+    "nombre": "Consulta nefrologia"
+  },
+  {
+    "codigo": "296",
+    "nombre": "Consulta anestesiologia"
+  },
+  {
+    "codigo": "315",
+    "nombre": "Consulta ortopedia"
+  },
+  {
+    "codigo": "323",
+    "nombre": "Consulta cirugia maxilofacial"
+  },
+  {
+    "codigo": "786",
+    "nombre": "Consulta cirugia general y especializada"
+  },
+  {
+    "codigo": "328",
+    "nombre": "Consulta pediatria"
+  },
+  {
+    "codigo": "353",
+    "nombre": "Consulta ginecologia"
+  },
+  {
+    "codigo": "354",
+    "nombre": "Consulta obstetricia"
+  },
+  {
+    "codigo": "356",
+    "nombre": "Consulta odontologia"
+  },
+  {
+    "codigo": "806",
+    "nombre": "Centro quirurgico"
+  },
+  {
+    "codigo": "515",
+    "nombre": "Sala de partos"
+  },
+  {
+    "codigo": "516",
+    "nombre": "Centro obstetrico"
+  },
+  {
+    "codigo": "766",
+    "nombre": "Servicio de apoyo a riiss"
+  },
+  {
+    "codigo": "398",
+    "nombre": "Vacunacion"
+  },
+  {
+    "codigo": "502",
+    "nombre": "Quirofanos menor (pequeña cirugia )"
+  },
+  {
+    "codigo": "518",
+    "nombre": "Laboratorio clinico"
+  },
+  {
+    "codigo": "544",
+    "nombre": "Anatomia patologica"
+  },
+  {
+    "codigo": "751",
+    "nombre": "Clinica de ulceras y heridas"
+  },
+  {
+    "codigo": "775",
+    "nombre": "Estudios de cardiologia"
+  },
+  {
+    "codigo": "776",
+    "nombre": "Estudios gastroclinicos"
+  },
+  {
+    "codigo": "779",
+    "nombre": "Estudios de neumonologia"
+  },
+  {
+    "codigo": "780",
+    "nombre": "Estudios de imagenologia"
+  },
+  {
+    "codigo": "781",
+    "nombre": "Estudios de neurologia"
+  },
+  {
+    "codigo": "562",
+    "nombre": "Terapia fisica"
+  },
+  {
+    "codigo": "575",
+    "nombre": "Banco de sangre"
+  },
+  {
+    "codigo": "586",
+    "nombre": "Dialisis peritoneal"
+  },
+  {
+    "codigo": "777",
+    "nombre": "Dialisis ambulatoria"
+  },
+  {
+    "codigo": "268",
+    "nombre": "Hemodialisis"
+  },
+  {
+    "codigo": "593",
+    "nombre": "Servicio farmaceutico"
+  },
+  {
+    "codigo": "612",
+    "nombre": "Albergue"
+  },
+  {
+    "codigo": "644",
+    "nombre": "Ambulancia"
+  },
+  {
+    "codigo": "656",
+    "nombre": "Banco de leche"
+  },
+  {
+    "codigo": "750",
+    "nombre": "Alimentacion enteral"
+  },
+  {
+    "codigo": "662",
+    "nombre": "Central de esterilizacion"
+  },
+  {
+    "codigo": "761",
+    "nombre": "Saneamiento ambiental"
+  },
+  {
+    "codigo": "648",
+    "nombre": "Aseo"
+  },
+  {
+    "codigo": "721",
+    "nombre": "Almacen"
+  },
+  {
+    "codigo": "652",
+    "nombre": "Servicio de alimentacion"
+  },
+  {
+    "codigo": "659",
+    "nombre": "Lavanderia"
+  },
+  {
+    "codigo": "661",
+    "nombre": "Costureria"
+  },
+  {
+    "codigo": "664",
+    "nombre": "Transporte general"
+  },
+  {
+    "codigo": "665",
+    "nombre": "Mantenimiento"
+  },
+  {
+    "codigo": "713",
+    "nombre": "Trabajo social"
+  },
+  {
+    "codigo": "670",
+    "nombre": "Administracion"
+  },
+  {
+    "codigo": "702",
+    "nombre": "Docencia e investigacion"
+  }
+]

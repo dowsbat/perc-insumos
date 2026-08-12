@@ -1,0 +1,520 @@
+[
+  {
+    "codigo": "66",
+    "nombre": "Hospitalizacion medicina interna",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Hospitalizacion de 1º Medicina Interna hombres"
+      },
+      {
+        "nombre": "Hospitalizacion de 1º Medicina Interna Mujeres"
+      },
+      {
+        "nombre": "Hospitalizacion de 2º Medicina Interna Hombre"
+      },
+      {
+        "nombre": "Hospitalizacion de 2º Medicina Interna Mujeres"
+      },
+      {
+        "nombre": "Hospitalizacion de Medicina Nefrologica Mujeres"
+      },
+      {
+        "nombre": "Hospitalizacion de Medicina Nefrologica Hombre"
+      }
+    ]
+  },
+  {
+    "codigo": "95",
+    "nombre": "Hospitalizacion cirugia general",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Hospitalizacion de 1º cirugia general hombres"
+      },
+      {
+        "nombre": "Hospitalizacion de 1º cirugia general mujeres"
+      },
+      {
+        "nombre": "Hospitalizacion de 2º cirugia general hombres"
+      },
+      {
+        "nombre": "Hospitalizacion de 2º cirugia general mujeres"
+      }
+    ]
+  },
+  {
+    "codigo": "97",
+    "nombre": "Hospitalizacion ortopedia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "100",
+    "nombre": "Hospitalizacion otorrinolaringologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "788",
+    "nombre": "Hospitalizacion cirugia especializada",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "113",
+    "nombre": "Hospitalizacion obstetricia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "114",
+    "nombre": "Hospitalizacion ginecologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "116",
+    "nombre": "Hospitalizacion pediatria",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "117",
+    "nombre": "Hospitalizacion neonatologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "131",
+    "nombre": "Hospitalizacion cirugia pediatrica",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "159",
+    "nombre": "Hospitalizacion de dia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "745",
+    "nombre": "Hospitalizacion servicios por convenios",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "748",
+    "nombre": "Hospitalizacion de corta estancia",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Observacion de Pediatria"
+      },
+      {
+        "nombre": "Observacion Adultos"
+      }
+    ]
+  },
+  {
+    "codigo": "166",
+    "nombre": "Unidad de cuidados intensivos",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "169",
+    "nombre": "Unidad de cuidados intensivos neonatologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "170",
+    "nombre": "Unidad de cuidados intensivos pediatria",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "201",
+    "nombre": "Emergencias",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Emergencia Gineco-obstetrica"
+      },
+      {
+        "nombre": "Emergencia General y pediatrica"
+      }
+    ]
+  },
+  {
+    "codigo": "749",
+    "nombre": "Maxima emergencia",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Maxima de trauma"
+      },
+      {
+        "nombre": "Maxima de Pediatrica"
+      },
+      {
+        "nombre": "Maxima de Medicina"
+      },
+      {
+        "nombre": "Maxima de Ginecologia y Obstetricia"
+      }
+    ]
+  },
+  {
+    "codigo": "230",
+    "nombre": "Consulta nutricion",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "235",
+    "nombre": "Consulta de psicologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "740",
+    "nombre": "Consulta de servicios por convenios",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "273",
+    "nombre": "Consulta medicina interna",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "285",
+    "nombre": "Consulta nefrologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "296",
+    "nombre": "Consulta anestesiologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "315",
+    "nombre": "Consulta ortopedia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "323",
+    "nombre": "Consulta cirugia maxilofacial",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "786",
+    "nombre": "Consulta cirugia general y especializada",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "328",
+    "nombre": "Consulta pediatria",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "353",
+    "nombre": "Consulta ginecologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "354",
+    "nombre": "Consulta obstetricia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "356",
+    "nombre": "Consulta odontologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "806",
+    "nombre": "Centro quirurgico",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "515",
+    "nombre": "Sala de partos",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "516",
+    "nombre": "Centro obstetrico",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "766",
+    "nombre": "Servicio de apoyo a riiss",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "398",
+    "nombre": "Vacunacion",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "502",
+    "nombre": "Quirofanos menor (pequeña cirugia )",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "518",
+    "nombre": "Laboratorio clinico",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Laboratorio clinico general"
+      },
+      {
+        "nombre": "Laboratorio de Emergencia General y Pediatrico"
+      },
+      {
+        "nombre": "Laboratorio de Biologia Molecular"
+      }
+    ]
+  },
+  {
+    "codigo": "544",
+    "nombre": "Anatomia patologica",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "751",
+    "nombre": "Clinica de ulceras y heridas",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "775",
+    "nombre": "Estudios de cardiologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "776",
+    "nombre": "Estudios gastroclinicos",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "779",
+    "nombre": "Estudios de neumonologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "780",
+    "nombre": "Estudios de imagenologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "781",
+    "nombre": "Estudios de neurologia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "562",
+    "nombre": "Terapia fisica",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "575",
+    "nombre": "Banco de sangre",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "586",
+    "nombre": "Dialisis peritoneal",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "777",
+    "nombre": "Dialisis ambulatoria",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "268",
+    "nombre": "Hemodialisis",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "593",
+    "nombre": "Servicio farmaceutico",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "612",
+    "nombre": "Albergue",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Albergue Materno"
+      },
+      {
+        "nombre": "Albergue Pediatrico"
+      }
+    ]
+  },
+  {
+    "codigo": "644",
+    "nombre": "Ambulancia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "656",
+    "nombre": "Banco de leche",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "750",
+    "nombre": "Alimentacion enteral",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "662",
+    "nombre": "Central de esterilizacion",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "761",
+    "nombre": "Saneamiento ambiental",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "648",
+    "nombre": "Aseo",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "721",
+    "nombre": "Almacen",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "652",
+    "nombre": "Servicio de alimentacion",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "659",
+    "nombre": "Lavanderia",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "661",
+    "nombre": "Costureria",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "664",
+    "nombre": "Transporte general",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "665",
+    "nombre": "Mantenimiento",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "713",
+    "nombre": "Trabajo social",
+    "tipo": "final",
+    "subdivisiones": []
+  },
+  {
+    "codigo": "670",
+    "nombre": "Administracion",
+    "tipo": "final",
+    "subdivisiones": [
+      {
+        "nombre": "Direccion"
+      },
+      {
+        "nombre": "Subdireccion"
+      },
+      {
+        "nombre": "Unidad de planificacion"
+      },
+      {
+        "nombre": "oficialia de cumplimiento"
+      },
+      {
+        "nombre": "division medico quirurgico"
+      },
+      {
+        "nombre": "UFI"
+      },
+      {
+        "nombre": "UOC"
+      },
+      {
+        "nombre": "Recursos Humanos"
+      },
+      {
+        "nombre": "Unidad Juridica"
+      },
+      {
+        "nombre": "Auditoria interna"
+      },
+      {
+        "nombre": "Secretaria de divisiones administracion y apoyo"
+      },
+      {
+        "nombre": "Oficina por el derecho a la salud"
+      },
+      {
+        "nombre": "unidad informatica"
+      }
+    ]
+  },
+  {
+    "codigo": "702",
+    "nombre": "Docencia e investigacion",
+    "tipo": "final",
+    "subdivisiones": []
+  }
+]
