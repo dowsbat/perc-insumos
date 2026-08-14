@@ -1,6 +1,6 @@
 ¿Qué es PERC?
 
-PERC es el sistema de gestión de costos de insumos del Hospital Nacional San Juan de Dios de Santa Ana. 
+PERC es el sistema de gestión de costos de insumos que se utiliza a Nivel de Ministerio de Salud y el cual se aplica al Hospital Nacional San Juan de Dios de Santa Ana. 
 Su función es registrar cuánto invierte cada departamento del hospital en insumos, organizando esa información por centro de producción y por tipo de insumo, mes a mes.
 
 Hasta ahora esta información se llenaba a mano en plantillas de Excel: 
