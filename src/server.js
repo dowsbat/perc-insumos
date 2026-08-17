@@ -8,6 +8,8 @@ const departamentoRoutes = require('./routes/departamentoRoutes');   // ← NUEV
 const centroRoutes = require('./routes/centroRoutes');               // ← NUEVO
 const categoriaRoutes = require('./routes/categoriaRoutes');         // ← NUEVO
 const consumoRoutes = require('./routes/consumoRoutes');
+const reporteRoutes = require('./routes/reporteRoutes');
+const exportRoutes = require('./routes/exportRoutes');       // rutas de exportación a Excel
 
 const app = express();
 app.use(cors());
@@ -29,6 +31,8 @@ app.use('/api/departamentos', departamentoRoutes);   // ← NUEVO
 app.use('/api/centros', centroRoutes);               // ← NUEVO
 app.use('/api/categorias', categoriaRoutes);         // ← NUEVO
 app.use('/api/consumos', consumoRoutes);
+app.use('/api/reportes', reporteRoutes);
+app.use('/api/export', exportRoutes);                        // montamos las rutas bajo /api/export
 
 const PORT = process.env.PORT || 3000;
 
